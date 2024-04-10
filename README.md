@@ -55,3 +55,7 @@ Follow these steps to set up your web server and start receiving eBay Marketplac
 6. **Customize the Endpoint Handler**
 
    Modify the `app.post` route at the bottom of the script to process incoming data from eBay according to your individual business requirements or compliance needs.
+
+## Running
+
+Use `npm start` to start the server. For setup, consider using `sudo npm start`
